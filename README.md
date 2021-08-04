@@ -3,7 +3,7 @@ Loosely based on research paper **A Novel Statistical Analysis and Autoencoder D
 https://doi.org/10.1016/j.neucom.2019.11.016
 
 ## Blog of this Project
-[Network Intrusion Detection using Deep Learning on Medium.com](https://medium.com/geekculture/network-intrusion-detection-using-deep-learning-bcc91e9b999d?source=friends_link&sk=2b84dd61f3e76d63af0a14daf6f89f43)
+- ## [Network Intrusion Detection using Deep Learning on Medium.com](https://medium.com/geekculture/network-intrusion-detection-using-deep-learning-bcc91e9b999d?source=friends_link&sk=2b84dd61f3e76d63af0a14daf6f89f43)
 
 ## Repository Structure
 Network-Intrusion-Detection-Using-Machine-Learning
